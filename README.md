@@ -1,6 +1,6 @@
 ## Nous avons étudié l'offre de vaccination dans la ville d'Abidjan.
 
-La ville d'Abidjan couvre 2 districts sanitaires et 12 districts sanitaires dont 6 par région.
+La ville d'Abidjan couvre 2 régions sanitaires et 12 districts sanitaires dont 6 par région.
 
 - Région sanitaire de Abidjan 1 Grands Ponts      
     - DS APA (ATTECOUBE, PLATEAU, ADJAME)  
